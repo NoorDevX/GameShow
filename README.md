@@ -39,6 +39,3 @@
 
 <br>
 
-### 📸 Screenshots
-
-*Coming soon*
